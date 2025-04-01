@@ -5,7 +5,11 @@ ChatGPT4o出来以后，将实景图片风格转化为动画风格已经变得�
 
 
 ## 2.实际效果
-我截取了《甄嬛传》中甄嬛经典的哭戏片段，第一帧如下：![image](https://github.com/user-attachments/assets/44d186b2-21c8-43ca-a458-a3ce2775c84b)
+我截取了《甄嬛传》中甄嬛经典的哭戏片段，
+
+https://github.com/user-attachments/assets/fd8b0a97-c619-47cb-9971-d7d6e5cd71c1
+
+第一帧如下：![image](https://github.com/user-attachments/assets/44d186b2-21c8-43ca-a458-a3ce2775c84b)
 宫崎骏效果如下：![image](https://github.com/user-attachments/assets/0a1e271e-fe5e-4c32-b8ad-7a5766d5aeee)
 效果方面没得说，质量上乘。
 ## 3.遇到问题
