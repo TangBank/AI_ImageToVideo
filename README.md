@@ -33,6 +33,7 @@ https://github.com/user-attachments/assets/b017ed58-d8b5-4bb1-9c51-62d233a900e6
 ## 5.配音
 因为是二次创作，如果有原生配音是最好。调研了几个市面上的声音克隆AI有：
 * https://anyvoice.net/zh
+* [fish.audio](https://fish.audio/zh-CN/)
 * https://noiz.ai/landing
 * F5-TTS
 
