@@ -36,6 +36,9 @@ https://github.com/user-attachments/assets/b017ed58-d8b5-4bb1-9c51-62d233a900e6
 * [fish.audio](https://fish.audio/zh-CN/)
 * https://noiz.ai/landing
 * F5-TTS
+## 6.人物一致性问题
+AI生成的稳定性始终是个问题，如果将视频拆解成连续帧让AI生成的话，会出现非常不稳定的扩散。
+
 
 
 
